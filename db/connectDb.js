@@ -1,6 +1,6 @@
 import mongoose from 'mongoose'
 
-let DB_URL="mongodb+srv://arunmani:9787480892@cluster0.o9yhm.mongodb.net/libaryappnew?retryWrites=true&w=majority"
+let DB_URL="db url"
 
 async function dbConnect() {
   try {
